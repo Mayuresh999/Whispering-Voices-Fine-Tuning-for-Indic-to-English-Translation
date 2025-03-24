@@ -39,5 +39,19 @@ The BLEU (Bilingual Evaluation Understudy) Score is a metric used to evaluate ma
 
     BLEU Score Improvement: 5.5× higher BLEU compared to the base model.
 
+## Run with your own audio
+
+- Step 1 :- Clone the repository
+```
+git clone https://github.com/Mayuresh999/Whispering-Voices-Fine-Tuning-for-Indic-to-English-Translation.git
+```
+- Step 2 :- Install packages in environment of your choise 
+```
+pip install -r requirements
+```
+- Step 3 :- Run the Streamlit webapp
+```
+streamlit run app.py
+```
 Use Cases
 Transcribing Indic-language speech into English text
