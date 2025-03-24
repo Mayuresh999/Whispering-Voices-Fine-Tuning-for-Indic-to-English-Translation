@@ -128,3 +128,14 @@ if audio_data is not None:
                 st.error(f"Error during translation: {str(e)}")
 else:
     st.write("Please select, upload, or record an audio file to translate.")
+
+
+
+st.markdown(
+    """
+    **Connect with us:**  
+    🔗 [Mayuresh N. Madiwale](https://www.linkedin.com/in/mayureshmadiwale/)  
+    🔗 [AbleCredit](https://www.linkedin.com/company/able-credit/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BzNXPAPUtSvuDUHf%2FVKmgNg%3D%3D)  
+    """,
+    unsafe_allow_html=True,
+)
