@@ -53,5 +53,5 @@ pip install -r requirements
 ```
 streamlit run app.py
 ```
-Use Cases
-Transcribing Indic-language speech into English text
+
+### Read more in the detailed blog [HERE](https://www.linkedin.com/pulse/whispering-voices-fine-tuning-indic-to-english-mayuresh-madiwale-dl6if?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3BXlAvtQNlTsaFP1j28ivl%2BQ%3D%3D)
