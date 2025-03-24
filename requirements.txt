@@ -1,0 +1,7 @@
+ffmpeg-python
+librosa
+transformers
+torch
+accelerate
+streamlit
+streamlit-mic-recorder
